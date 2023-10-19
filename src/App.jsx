@@ -1,4 +1,4 @@
-
+import {avatar} from './assets/avatar'
 
 import './App.css'
 
